@@ -15,8 +15,8 @@
     <a href="https://github.com/hk91019/hk91019/releases/download/Docs/ChoHarim_Profile.pdf"
        download="ChoHarim_Profile.pdf">
       <img src="https://img.shields.io/badge/Profile%20(Download)-333333?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white"></a>&nbsp;
-  <a href="https://github.com/hk91019/hk91019/releases/download/Docs/ChoHarim_Gaming_Resume.xlsx"
-       download="ChoHarim_Gaming_Resume.xlsx">
+  <a href="https://github.com/hk91019/hk91019/releases/download/Docs/ChoHarim_Gaming_Resume.pdf"
+       download="ChoHarim_Gaming_Resume.pdf">
       <img src="https://img.shields.io/badge/Gaming%20Resume%20(Download)-2E8B57?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white">
   </a>
 </div>
