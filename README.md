@@ -115,10 +115,11 @@
 <br><sub>기능별 전체 플로우를 커버하는 상세 테스트 시트</sub></p>
 
 <p align="center">
-  <a href="https://github.com/hk91019/hk91019/blob/main/Docs/01_TestCase/FRD_FullFunction.xlsx?raw=1">
+  <a href="https://github.com/hk91019/hk91019/raw/main/Docs/01_TestCase/FRD_FullFunction.xlsx">
     <img src="https://img.shields.io/badge/xlsx-다운로드-111111?style=for-the-badge&labelColor=2E7D32" alt="엑셀 다운로드">
   </a>
 </p>
+
 
 <p align="center">4. Test Case - Network / Interrupt<br>
 <kbd>🧪 프렌즈레이싱 듀오 - Network & Interrupt TestCase</kbd>
