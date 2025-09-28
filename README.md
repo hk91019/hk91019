@@ -16,6 +16,13 @@
   <a href="mailto:hk91019@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+
+  <p align="center">
+    <a href="https://github.com/hk91019/hk91019/releases/download/Docs/ChoHarim_Profile.pdf"
+       download="ChoHarim_Profile.pdf">
+      <img src="https://img.shields.io/badge/Profile%20(다운로드)-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white">
+  </a>
+  </p>
 </div>
 
 ###
@@ -35,7 +42,7 @@
 <h3 align="center">안녕하세요!<br>7년차 QA 조하림입니다.  
 </h3>
 
-<p align="center">이 레포지토리는 제가 실제 프로젝트에서 작성하거나 사용했던 QA 산출물 중 일부를 가공/발췌하여 정리한 포트폴리오입니다.
+<p align="center">이 레포지토리는 제가 실제 프로젝트에서 작성하거나 사용했던 QA 산출물을 정리한 포트폴리오입니다.
   <br><kbd>⚠️ 모든 자료는 보안/저작권 이슈가 없는 범위에서 발췌·가공된 샘플입니다.</kbd></p>
 
 <br><br>
@@ -85,17 +92,20 @@
 
 <br><br>
 
-<h3 align="center"> 🗂️ QA Documents </h3>
+<h3 align="center"> 🗂️ QA Documents</h3>
+<p align="center"><sub>※ 프로젝트 약어 · FRD = FriendsRacingDuo ※</sub></p>
 
 ### 
+
 <!-- Test Plan -->
 <p align="center">1. Test Plan<br>
 <kbd>📑 프렌즈레이싱 듀오 - QA Plan</kbd>
 <br><sub>테스트 범위, 일정, 전략, 인력 구성 등을 포함한 QA 초기 계획 문서</sub></p>
 
 <p align="center">
-  <a href="./docs/Report/FRD_QAPlan.pdf">
-    <img src="https://img.shields.io/badge/PDF-바로가기-111111?style=for-the-badge&labelColor=2E7D32" alt="PDF 바로가기">
+  <a href="https://github.com/hk91019/hk91019/releases/download/Docs/FRD_QA_Plan.xlsx"
+     download="FRD_QA_Plan.xlsx">
+    <img src="https://img.shields.io/badge/파일%20다운로드-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   </a>
 </p>
 
@@ -105,8 +115,9 @@
 <br><sub>주요 기능 및 UI 중심으로 진행한 기본 안정성 점검 시트</sub></p>
 
 <p align="center">
-  <a href="./docs/TestCase/FRD_Sanity.xlsx">
-    <img src="https://img.shields.io/badge/바로가기-999?style=flat-square" alt="바로가기">
+  <a href="https://github.com/hk91019/hk91019/releases/download/Docs/FRD_Sanity_TestCase.xlsx"
+     download="FRD_Sanity_TestCase.xlsx">
+    <img src="https://img.shields.io/badge/파일%20다운로드-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   </a>
 </p>
 
@@ -115,9 +126,9 @@
 <br><sub>기능별 전체 플로우를 커버하는 상세 테스트 시트</sub></p>
 
 <p align="center">
-  <a href="https://github.com/hk91019/hk91019/releases/download/Docs/FRD_FullFunction.xlsx"
-     download="FRD_FullFunction.xlsx">
-    <img src="https://img.shields.io/badge/xlsx-다운로드-111111?style=for-the-badge&labelColor=2E7D32" alt="엑셀 다운로드">
+  <a href="https://github.com/hk91019/hk91019/releases/download/Docs/FRD_FullFunction_TestCase.xlsx"
+     download="FRD_FullFunction_TestCase.xlsx">
+    <img src="https://img.shields.io/badge/파일%20다운로드-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   </a>
 </p>
 
@@ -126,8 +137,9 @@
 <br><sub>네트워크 지연, 데이터 동기화, 전화 수신 등 외부 이벤트 대응 검증</sub></p>
 
 <p align="center">
-  <a href="./docs/TestCase/FRD_Network_Interrupt.xlsx">
-    <img src="https://img.shields.io/badge/바로가기-999?style=flat-square" alt="바로가기">
+  <a href="https://github.com/hk91019/hk91019/releases/download/Docs/FRD_Network.Interrupt_TestCase.xlsx"
+     download="FRD_Network&Interrupt_TestCase.xlsx">
+    <img src="https://img.shields.io/badge/파일%20다운로드-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   </a>
 </p>
 
@@ -136,8 +148,9 @@
 <br><sub>총 75종 디바이스에서 UI, 해상도, 렌더링 오류 검증</sub></p>
 
 <p align="center">
-  <a href="./docs/TestCase/FRD_HW_Compatibility.xlsx">
-    <img src="https://img.shields.io/badge/바로가기-999?style=flat-square" alt="바로가기">
+  <a href="https://github.com/hk91019/hk91019/releases/download/Docs/FRD_HW_Compatibility_TestCase.xlsx"
+     download="FRD_HW_Compatibility_TestCase.xlsx">
+    <img src="https://img.shields.io/badge/파일%20다운로드-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   </a>
 </p>
 
@@ -147,8 +160,9 @@
 <br><sub>테스트 초기 환경 및 준비 상태를 공유한 문서</sub></p>
 
 <p align="center">
-  <a href="./docs/Report/FRD_QAStart.pdf">
-    <img src="https://img.shields.io/badge/바로가기-999?style=flat-square" alt="바로가기">
+  <a href="https://github.com/hk91019/hk91019/releases/download/Docs/FRD_QA_Start_Report_210115.xlsx"
+     download="FRD_QA_Start_Report.xlsx">
+    <img src="https://img.shields.io/badge/파일%20다운로드-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   </a>
 </p>
 
@@ -157,8 +171,9 @@
 <br><sub>일일 테스트 진행 상황, 커버리지, 이슈 현황을 정리한 보고서</sub></p>
 
 <p align="center">
-  <a href="./docs/Report/FRD_DailyReport.pdf">
-    <img src="https://img.shields.io/badge/바로가기-999?style=flat-square" alt="바로가기">
+  <a href="https://github.com/hk91019/hk91019/releases/download/Docs/FRD_Daily_Report_210118.xlsx"
+     download="FRD_Daily_Report.xlsx">
+    <img src="https://img.shields.io/badge/파일%20다운로드-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   </a>
 </p>
 
@@ -167,8 +182,9 @@
 <br><sub>중간 점검용 문서로 기능 테스트 커버리지 및 품질 상태 종합</sub></p>
 
 <p align="center">
-  <a href="./docs/Report/FRD_StatusReport.pdf">
-    <img src="https://img.shields.io/badge/바로가기-999?style=flat-square" alt="바로가기">
+  <a href="https://github.com/hk91019/hk91019/releases/download/Docs/FRD_Status_Report_201127.xlsx"
+     download="FRD_Status_Report.xlsx">
+    <img src="https://img.shields.io/badge/파일%20다운로드-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   </a>
 </p>
 
@@ -177,8 +193,9 @@
 <br><sub>출시 적합 여부 판단을 위한 최종 QA 결과 보고서</sub></p>
 
 <p align="center">
-  <a href="./docs/Report/FRD_SignOffReport.pdf">
-    <img src="https://img.shields.io/badge/바로가기-999?style=flat-square" alt="바로가기">
+  <a href="https://github.com/hk91019/hk91019/releases/download/Docs/FRD_SignOff_Report.xlsx"
+     download="FRD_SignOff_Report.xlsx">
+    <img src="https://img.shields.io/badge/파일%20다운로드-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   </a>
 </p>
 
