@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/hk91019/hk91019/blob/main/Resource/Memoji/Hand_wave.jpeg" style="transform: scale(2);" />
+  <img src="https://github.com/hk91019/Resource/blob/main/Memoji/Hand_wave.jpeg" style="transform: scale(2);" />
 </div>
 
 ###
