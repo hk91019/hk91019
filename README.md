@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7CAC9,100:92A8D1&height=250&section=header&text=QA%20Portfolio&fontColor=FFFFFF&fontSize=90&fontAlign=50&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7CAC9,100:92A8D1&height=250&section=header&text=Portfolio&fontColor=FFFFFF&fontSize=90&fontAlign=50&fontAlignY=35" width="100%"/>
 </div>
 
 <div align="center">
@@ -9,20 +9,13 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/hk91019" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  
-  <a href="mailto:hk91019@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-
-  <p align="center">
+  <a href="https://www.instagram.com/hk91019"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/></a>&nbsp;
+  <a href="mailto:hk91019@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/></a>
+  <br/>
     <a href="https://github.com/hk91019/hk91019/releases/download/Docs/ChoHarim_Profile.pdf"
        download="ChoHarim_Profile.pdf">
-      <img src="https://img.shields.io/badge/Profile%20(다운로드)-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white">
+      <img src="https://img.shields.io/badge/Profile%20(Download)-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white">
   </a>
-  </p>
 </div>
 
 ###
@@ -43,7 +36,8 @@
 </h3>
 
 <p align="center">이 레포지토리는 제가 실제 프로젝트에서 작성하거나 사용했던 QA 산출물을 정리한 포트폴리오입니다.
-  <br><kbd>⚠️ 모든 자료는 보안/저작권 이슈가 없는 범위에서 발췌·가공된 샘플입니다.</kbd></p>
+  <br><br>
+  <kbd>&nbsp;&nbsp;⚠️ 서비스 종료 프로젝트인 '프렌즈레이싱 듀오'의 실제 문서입니다.&nbsp;&nbsp;<br><br>팀원 이름만 마스킹하였으며, 그 외 내용은 당시 버전입니다.</kbd></p>
 
 <br><br>
 
@@ -105,7 +99,7 @@
 <p align="center">
   <a href="https://github.com/hk91019/hk91019/releases/download/Docs/FRD_QA_Plan.xlsx"
      download="FRD_QA_Plan.xlsx">
-    <img src="https://img.shields.io/badge/파일%20다운로드-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+    <img src="https://img.shields.io/badge/Download-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   </a>
 </p>
 
@@ -117,7 +111,7 @@
 <p align="center">
   <a href="https://github.com/hk91019/hk91019/releases/download/Docs/FRD_Sanity_TestCase.xlsx"
      download="FRD_Sanity_TestCase.xlsx">
-    <img src="https://img.shields.io/badge/파일%20다운로드-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+    <img src="https://img.shields.io/badge/Download-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   </a>
 </p>
 
@@ -128,7 +122,7 @@
 <p align="center">
   <a href="https://github.com/hk91019/hk91019/releases/download/Docs/FRD_FullFunction_TestCase.xlsx"
      download="FRD_FullFunction_TestCase.xlsx">
-    <img src="https://img.shields.io/badge/파일%20다운로드-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+    <img src="https://img.shields.io/badge/Download-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   </a>
 </p>
 
@@ -139,7 +133,7 @@
 <p align="center">
   <a href="https://github.com/hk91019/hk91019/releases/download/Docs/FRD_Network.Interrupt_TestCase.xlsx"
      download="FRD_Network&Interrupt_TestCase.xlsx">
-    <img src="https://img.shields.io/badge/파일%20다운로드-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+    <img src="https://img.shields.io/badge/Download-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   </a>
 </p>
 
@@ -150,7 +144,7 @@
 <p align="center">
   <a href="https://github.com/hk91019/hk91019/releases/download/Docs/FRD_HW_Compatibility_TestCase.xlsx"
      download="FRD_HW_Compatibility_TestCase.xlsx">
-    <img src="https://img.shields.io/badge/파일%20다운로드-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+    <img src="https://img.shields.io/badge/Download-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   </a>
 </p>
 
@@ -162,7 +156,7 @@
 <p align="center">
   <a href="https://github.com/hk91019/hk91019/releases/download/Docs/FRD_QA_Start_Report_210115.xlsx"
      download="FRD_QA_Start_Report.xlsx">
-    <img src="https://img.shields.io/badge/파일%20다운로드-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+    <img src="https://img.shields.io/badge/Download-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   </a>
 </p>
 
@@ -173,7 +167,7 @@
 <p align="center">
   <a href="https://github.com/hk91019/hk91019/releases/download/Docs/FRD_Daily_Report_210118.xlsx"
      download="FRD_Daily_Report.xlsx">
-    <img src="https://img.shields.io/badge/파일%20다운로드-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+    <img src="https://img.shields.io/badge/Download-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   </a>
 </p>
 
@@ -184,7 +178,7 @@
 <p align="center">
   <a href="https://github.com/hk91019/hk91019/releases/download/Docs/FRD_Status_Report_201127.xlsx"
      download="FRD_Status_Report.xlsx">
-    <img src="https://img.shields.io/badge/파일%20다운로드-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+    <img src="https://img.shields.io/badge/Download-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   </a>
 </p>
 
@@ -195,7 +189,7 @@
 <p align="center">
   <a href="https://github.com/hk91019/hk91019/releases/download/Docs/FRD_SignOff_Report.xlsx"
      download="FRD_SignOff_Report.xlsx">
-    <img src="https://img.shields.io/badge/파일%20다운로드-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+    <img src="https://img.shields.io/badge/Download-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   </a>
 </p>
 
