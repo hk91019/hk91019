@@ -38,11 +38,7 @@
 <h3 align="center">안녕하세요!<br>7년차 QA 조하림입니다.  
 </h3>
 
-<p align="center">이 레포지토리는 제가 실제 프로젝트에서 작성하거나 사용했던 QA 산출물을 정리한 포트폴리오입니다.
-  <br><br>
-  <kbd>&nbsp;&nbsp;⚠️ 서비스 종료 프로젝트인 '프렌즈레이싱 듀오'의 실제 문서입니다.&nbsp;&nbsp;<br><br>팀원 이름만 마스킹하였으며, 그 외 내용은 당시 버전입니다.</kbd></p>
-
-<br><br>
+<br>
 
 <h3 align="center"> 📁 Projects </h3>
 
@@ -87,9 +83,15 @@
 </details>
 </div>
 
-<br><br>
+<br>
 
 <h3 align="center"> 🗂️ QA Documents</h3>
+<br>
+
+<p align="center">아래는 실제 프로젝트 QA 과정에서 작성 · 사용된 주요 산출물 모음입니다.
+  <br><br>
+  <kbd>&nbsp;&nbsp;⚠️ 서비스 종료 프로젝트 프렌즈레이싱 듀오의 실제 QA 문서입니다.&nbsp;&nbsp;<br><br>팀원 이름만 마스킹하였으며, 나머지는 당시 버전 그대로입니다.</kbd></p>
+  
 <p align="center"><sub>※ 프로젝트 약어 · FRD = FriendsRacingDuo ※</sub></p>
 
 ### 
