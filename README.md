@@ -90,7 +90,7 @@
 ### 
 <!-- Test Plan -->
 <p align="center">1. Test Plan<br>
-<kbd>📑 프렌즈레이싱 듀오 QA Plan</kbd>
+<kbd>📑 프렌즈레이싱 듀오 - QA Plan</kbd>
 <br><sub>테스트 범위, 일정, 전략, 인력 구성 등을 포함한 QA 초기 계획 문서</sub></p>
 
 <p align="center">
@@ -101,7 +101,7 @@
 
 <!-- Test Cases -->
 <p align="center">2. Test Case - Sanity<br>
-<kbd>🧪 FRD Sanity TestCase</kbd>
+<kbd>🧪 프렌즈레이싱 듀오 - Sanity TestCase</kbd>
 <br><sub>주요 기능 및 UI 중심으로 진행한 기본 안정성 점검 시트</sub></p>
 
 <p align="center">
@@ -111,17 +111,17 @@
 </p>
 
 <p align="center">3. Test Case - Full Function<br>
-<kbd>🧪 FRD Full Function TestCase</kbd>
+<kbd>🧪 프렌즈레이싱 듀오 - Full Function TestCase</kbd>
 <br><sub>기능별 전체 플로우를 커버하는 상세 테스트 시트</sub></p>
 
 <p align="center">
-  <a href="./Docs/01_TestCase/FRD_FullFunction.xlsx?raw=1">
-    <img src="https://img.shields.io/badge/xlsx-다운로드-111111?style=for-the-badge&labelColor=2E7D32" alt="PDF 바로가기">
+  <a href="https://github.com/hk91019/hk91019/blob/main/Docs/01_TestCase/FRD_FullFunction.xlsx?raw=1">
+    <img src="https://img.shields.io/badge/xlsx-다운로드-111111?style=for-the-badge&labelColor=2E7D32" alt="엑셀 다운로드">
   </a>
 </p>
 
 <p align="center">4. Test Case - Network / Interrupt<br>
-<kbd>🧪 FRD Network & Interrupt TestCase</kbd>
+<kbd>🧪 프렌즈레이싱 듀오 - Network & Interrupt TestCase</kbd>
 <br><sub>네트워크 지연, 데이터 동기화, 전화 수신 등 외부 이벤트 대응 검증</sub></p>
 
 <p align="center">
@@ -131,7 +131,7 @@
 </p>
 
 <p align="center">5. Test Case - H/W Compatibility<br>
-<kbd>🧪 FRD HW Compatibility TestCase</kbd>
+<kbd>🧪 프렌즈레이싱 듀오 - HW Compatibility TestCase</kbd>
 <br><sub>총 75종 디바이스에서 UI, 해상도, 렌더링 오류 검증</sub></p>
 
 <p align="center">
@@ -142,7 +142,7 @@
 
 <!-- Reports -->
 <p align="center">6. QA Start<br>
-<kbd>📊 FRD QA Start Report</kbd>
+<kbd>📊 프렌즈레이싱 듀오 - QA Start Report</kbd>
 <br><sub>테스트 초기 환경 및 준비 상태를 공유한 문서</sub></p>
 
 <p align="center">
@@ -152,7 +152,7 @@
 </p>
 
 <p align="center">7. QA Daily Report<br>
-<kbd>📊 FRD QA Daily Report</kbd>
+<kbd>📊 프렌즈레이싱 듀오 - QA Daily Report</kbd>
 <br><sub>일일 테스트 진행 상황, 커버리지, 이슈 현황을 정리한 보고서</sub></p>
 
 <p align="center">
@@ -162,7 +162,7 @@
 </p>
 
 <p align="center">8. QA Status Report<br>
-<kbd>📊 FRD QA Status Report</kbd>
+<kbd>📊 프렌즈레이싱 듀오 - QA Status Report</kbd>
 <br><sub>중간 점검용 문서로 기능 테스트 커버리지 및 품질 상태 종합</sub></p>
 
 <p align="center">
@@ -172,7 +172,7 @@
 </p>
 
 <p align="center">9. QA SignOff Report<br>
-<kbd>📊 FRD QA SignOff Report</kbd>
+<kbd>📊 프렌즈레이싱 듀오 - QA SignOff Report</kbd>
 <br><sub>출시 적합 여부 판단을 위한 최종 QA 결과 보고서</sub></p>
 
 <p align="center">
