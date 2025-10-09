@@ -27,16 +27,12 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=hk91019.hk91019"  />
 </div>
 
-<!--
 ###
 
-<h1 align="center">안녕하세요!<br>다양한 경험으로 빠르게 녹아드는 QA 조하림입니다!</h1>
--->
-
-###
-
-<h3 align="center">안녕하세요!<br>7년차 QA 조하림입니다.  
+<h3 align="center">품질뿐 아니라 재미를 함께 검증하는 QA 조하림입니다.
 </h3>
+<h4 align="center">기능의 완성도와 플레이 경험의 완성도를 함께 설계합니다.
+</h4>
 
 <br>
 
@@ -79,6 +75,22 @@
 | 2021.12 ~ 2022.01<br><sub>[QA 리드]</sub> | **Klip Global Mobile** |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;App&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 | 2021.10 ~ 2021.12<br><sub>[QA 리드]</sub> | **Klip Drops** | Web |
 | 2019.10 ~ 2020.05 |&nbsp; **Smilegate Toonspoon** &nbsp;| Web |
+
+</details>
+</div>
+
+<div align="center">
+  
+<details>
+<summary><b>⚙️ Process Improvement</b></summary>
+  
+<br>
+  
+| 개선 항목 | 개선 사항 | 개선 효과 |
+|:--:|:--:|:--:|
+| 커뮤니케이션 구조 개선 | QA 전용 문의 채널 개설 및 응답 기준 수립 | 피드백 지연률 40% 감소<br> QA–Dev 응답속도 약 3배 향상 |
+| 문서 표준화 | 기존 엑셀 기반 QA 문서 → 구글 스프레드시트로 전환 | 문서 취합 시간 제거 |
+| 문서 접근 및 인수인계 효율화 | 구글 시트 내 별도 모음 페이지 구축<br>테스트 문서, QA 계정, 디바이스 정보를 리스트화해 즉시 접근 가능 | 문서 관리 효율 향상<br>인수인계 시, 누락 0건 유지 |
 
 </details>
 </div>
